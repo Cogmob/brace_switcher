@@ -1,7 +1,7 @@
 {
-  "name": "node_base",
-  "version": "0.0.0",
-  "description": "base repo for node projects",
+  "name": "brace_switcher",
+  "version": "0.0.1",
+  "description": "gulp plugin to replace python style code with c style code",
   "main": "index.js",
   "scripts": {
     "test": "ava"

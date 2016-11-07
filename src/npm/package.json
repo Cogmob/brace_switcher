@@ -1,7 +1,7 @@
 {
-  "name": "[[replace - name]]",
-  "version": "0.0.0",
-  "description": "[[replace - description]]",
+  "name": "brace_switcher",
+  "version": "0.0.2",
+  "description": "gulp plugin to replace python style code with c style code",
   "main": "index.js",
   "scripts": {
     "test": "ava"
